@@ -1,0 +1,49 @@
+{
+  "transferencias": [
+    {
+      "id": "1",
+      "valor": 35,
+      "destino": "1212-1",
+      "data": "2020-11-04T16:30:10.710Z",
+      "descricaoTransacao": "compra pix",
+      "agencia": "1",
+      "chavePix": "+11968832414"
+    },
+    {
+      "id": "2",
+      "valor": 40,
+      "destino": "1213-1",
+      "data": "2020-11-04T21:24:10.710Z",
+      "descricaoTransacao": "compra loja",
+      "agencia": "3",
+      "chavePix": "email@email.com.br"
+    },
+    {
+      "id": "3",
+      "valor": 12.5,
+      "destino": "1214-1",
+      "data": "2020-11-05T21:14:10.710Z",
+      "descricaoTransacao": "compra debito",
+      "agencia": "2",
+      "chavePix": "+119688324123"
+    },
+    {
+      "valor": 213,
+      "destino": "1231",
+      "descricaoTransacao": "compra",
+      "chavePix": "11222",
+      "agencia": 1,
+      "data": "2022-05-08T01:26:12.512Z",
+      "id": "hBVGxNV"
+    },
+    {
+      "valor": 50,
+      "destino": "213165",
+      "descricaoTransacao": "compra nova",
+      "chavePix": "123456",
+      "agencia": 2,
+      "data": "2022-05-08T02:09:53.616Z",
+      "id": "P_4-y-O"
+    }
+  ]
+}
